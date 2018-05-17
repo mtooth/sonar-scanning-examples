@@ -1,0 +1,1 @@
+mvn clean install sonar:sonar -X -Dsonar.verbose=true -Dsonar.inclusions=src/**/*,js/**/*,py/**/* -Dsonar.projectKey=mtoothak-dnac -Dsonar.projectName=mtoothak-dnac
